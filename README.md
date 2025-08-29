@@ -47,6 +47,5 @@ Citation coming!
 ---
 
 ## Contact
-- **Author:** TJ Wilkerson  
-- **GitHub:** [@your-handle](https://github.com/tjwilkerson)  
+- **Author:** TJ Wilkerson   
 - **Email:** tjwilkerson97@gmail.com
